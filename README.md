@@ -6,12 +6,6 @@ This repository contains an extension of the **iStar** framework for capturing M
 
 Authors: Jose M. Barrera, Alejandro Reina-Reina, Ana Lavalle, Alejandro Maté, Juan Trujillo. Published in:  Computer Standards & Interfaces, 88, 103806 (2024) DOI: ([10.1007/s13042-022-01583-x](https://www.sciencedirect.com/science/article/pii/S0920548923000879?ssrnid=4358075&dgcid=SSRN_redirect_SD))
 
-## Key Features
-
-- **Captures Functional and Non-Functional Requirements**: Includes support for ML-specific qualities like explainability, equity, and robustness.
-- **Guided Requirements Capture**: Offers a questionnaire and predefined tables to aid in eliciting requirements and selecting suitable algorithms.
-- **Applicability Across Domains**: Demonstrated through real-world case studies in industrial and healthcare contexts.
-
 ## System Requirements
 
 To use or implement the metamodel, you will need the following tools and dependencies:
